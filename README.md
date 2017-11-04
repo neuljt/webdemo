@@ -25,3 +25,4 @@ template //js，css，模板存放地址
 3 修改ajaxController中#36行关于mysql的数据库
 
 4 在template的父级目录运行服务
+test
